@@ -34,9 +34,7 @@
 
 ---
 ## OUTPUT
-
-
-
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4f08f2f4-ea4b-4d0b-befd-7a99e48d8395" />
 
 
 
